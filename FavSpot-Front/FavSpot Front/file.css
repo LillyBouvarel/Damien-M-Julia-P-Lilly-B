@@ -1,0 +1,13 @@
+* { margin: 0px; }
+
+p { text-align: center; }
+
+input[type="search"] { width: 25%; float: left; }
+
+ul { width: 25%; float:right; background-color: yellow; }
+
+body { 
+    background-image: url("./World-countries-b.jpg");
+    background-repeat: no-repeat; 
+}
+
